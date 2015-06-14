@@ -1,39 +1,53 @@
 .heading {
-    font-family: 'Gloria Hallelujah', cursive;
-    font-size: 48px;
+    font-family: "Courier New";
+    font-size: 60px;
     text-align: center;
     text-shadow: 2px 2px 3px rgba(150, 150, 150, 1);
-    color: #485D00;
+    color: #000000;
+    margin-bottom: 10px;
+    padding-top: 20px;
+}
+
+hr {
+    width: 90%;
+    border: 0;
+    height: 1px;
+    border-bottom: 1px dashed #ccc;
+    background: #999;
 }
 
 a {
-    color: #485D00;
+    color: blue;
     text-decoration: none;
 }
 
 a:visited {
-    color: #485D00;
+    color: blue;
 }
 
 ul {
     list-style: none;
     margin: 0;
     padding: 0;
+    padding-top: 20px;
 }
 
 li {
-    margin-bottom: 12px;
+    padding-left: 40px;
+    margin-bottom: 20px;
     cursor: pointer; cursor: hand;
+    font-family: "Courier New";
+    font-size: 18px;
 }
 
 li:hover {
-    background-color: #F1FBCC;
+    background-color: #FFFFe0;
 }
 
 body {
     margin: 0;
     padding: 0;
-    background-color: #F4FCD7;
+    background-color: #EEEEEE;
 }
 
 #centerDiv {
@@ -43,7 +57,6 @@ body {
     background-color: #FFFFFF;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
-    padding-left: 20px;
     -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
     box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
