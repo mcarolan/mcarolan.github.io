@@ -1,0 +1,50 @@
+.heading {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 48px;
+    text-align: center;
+    text-shadow: 2px 2px 3px rgba(150, 150, 150, 1);
+    color: #485D00;
+}
+
+a {
+    color: #485D00;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #485D00;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 12px;
+    cursor: pointer; cursor: hand;
+}
+
+li:hover {
+    background-color: #F1FBCC;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #F4FCD7;
+}
+
+#centerDiv {
+    width: 80%;
+    margin: auto;
+    height: 100%;
+    background-color: #FFFFFF;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-left: 20px;
+    -webkit-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.75);
+}
