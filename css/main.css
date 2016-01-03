@@ -63,6 +63,11 @@ hr.dark {
     color: blue;
 }
 
+article h1 {
+  font-size: 30px;
+  color: #666666;
+}
+
 article a {
   color: #666666;
 }
@@ -71,7 +76,7 @@ article a:visited {
   color: #666666;
 }
 
-article:last-of-type + hr {
+.posts article:last-of-type + hr {
   visibility: collapse;
 }
 
