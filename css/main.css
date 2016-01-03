@@ -2,8 +2,8 @@
     width: 100%;
     overflow: auto;
     padding-bottom: 20px;
+    position: relative;
 }
-
 
 #heading {
     margin: 0 auto;
@@ -11,13 +11,21 @@
 
 #heading h1 {
     text-align: center;
-    font-size: 60px;
-    color: #666666;
+    font-size: 50px;
     padding: 0;
     margin: 0;
     padding-top: 25px;
 }
 
+#heading a {
+  color: #666666;
+  text-decoration: none;
+}
+
+#heading a:visited {
+  color: #666666;
+  text-decoration: none;
+}
 
 #githubAvatar {
     float: left;
@@ -28,32 +36,55 @@
     border-radius: 15px;
 }
 
+#links {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
 hr {
     width: 100%;
     border: 0;
     height: 1px;
-    border-bottom: 5px dashed #ccc;
+    border-bottom: 5px solid #ccc;
 }
 
-a {
+hr.dark {
+  width: 100%;
+  border: 0;
+  height: 1px;
+  border-bottom: 5px dashed #666666;
+}
+
+#links a {
     color: blue;
     text-decoration: none;
 }
 
-a:visited {
+#links a:visited {
     color: blue;
+}
+
+article a {
+  color: #666666;
+}
+
+article a:visited {
+  color: #666666;
+}
+
+article:last-of-type + hr {
+  visibility: collapse;
 }
 
 ul {
     list-style: none;
     margin: 0;
     padding: 0;
-    padding-top: 20px;
 }
 
 li {
-    padding-left: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     cursor: pointer; cursor: hand;
     font-size: 18px;
 }

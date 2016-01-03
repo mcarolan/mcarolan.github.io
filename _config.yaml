@@ -1,0 +1,9 @@
+name: Martin Carolan
+
+version: v2.4.0
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - CNAME
