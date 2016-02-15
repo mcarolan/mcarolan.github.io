@@ -80,19 +80,19 @@ article a:visited {
   visibility: collapse;
 }
 
-ul {
+#links ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-li {
+#links li {
     margin-bottom: 10px;
     cursor: pointer; cursor: hand;
     font-size: 18px;
 }
 
-li:hover {
+#links li:hover {
     background-color: #FFFFe0;
 }
 
