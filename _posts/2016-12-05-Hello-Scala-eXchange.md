@@ -14,17 +14,18 @@ How did it all start?
 <p>Well, I&apos;d had an itching to do something like this for a while. It turns out an itching doesn&apos;t cut it when faced with the unboundless procrastination potential gifted by a <a target="_blank" target="_blank" href="https://en.wikipedia.org/wiki/Academic_conference#Organizing_an_academic_conference">CFP email</a>.</p>
 <p>Like most things I&apos;ve done in life, a healthy dose of peer pressure was required to get me started. This came in the form of badgering from <a target="_blank" href="http://www.sofiacole.com/">Sofia Cole</a>. I&apos;m very grateful for this, and would almost certainly not have followed through with it otherwise!</p>
 
-```
-Tip 1: Find someone willing to badger.
-```
+<blockquote>
+<strong>Tip 1</strong>: Find someone willing to badger.
+</blockquote>
 
 Why did you decide to do a lightning talk?
 ----
 
 <p>For me, the amount of anxiety this was beginning to induce (even before the <a target="_blank" href="https://en.wikipedia.org/wiki/Academic_conference#Organizing_an_academic_conference">CFP stage</a>) meant I was mentally refusing to do anything more than a lightning talk. So that was cool: identifying constraints is a good thing.</p>
-```
-Tip 2: Work out your mental constraints ASAP (are you confident enough to dive into a full length talk?).
-```
+
+<blockquote>
+<strong>Tip 2</strong>: Work out your mental constraints ASAP (are you confident enough to dive into a full length talk?).
+</blockquote>
 
 How did you decide on the subject?
 ----
@@ -38,9 +39,9 @@ How did you decide on the subject?
 
 <p>I came up with a click-baity title, and left it to Future Martin to deal with any consequences.</p>
 
-```
-Tip 3: Think of something that interests you greatly - that gets some fire in your belly. It's not an issue if you're not fully confident with the subject area yet.
-```
+<blockquote>
+<strong>Tip 3</strong>: Think of something that interests you greatly - that gets some fire in your belly. It's not an issue if you're not fully confident with the subject area yet.
+</blockquote>
 
 So then you just waited for the yes/no email?
 ----
@@ -49,9 +50,9 @@ So then you just waited for the yes/no email?
 <p>I scrapped my original hacky implementation of the game, and remade the project with a view to fully understanding how even the most intricate pieces of it worked. Just in case.</p>
 <p>I figured it&apos;d be good to do anyway, I did find the subject incredibly interesting. And it wouldn&apos;t be wasted, I could always translate it into a Meetup talk or a blog post.</p>
 
-```
-Tip 4: Use the anxiety/adrenaline (delete as appropriate) of submission, and the lull time to firm up your understanding of the subject area. Your interest in it and the pseudo-commitment can mentally drive you to explore it further.
-```
+<blockquote>
+<strong>Tip 4</strong>: Use the anxiety/adrenaline (delete as appropriate) of submission, and the lull time to firm up your understanding of the subject area. Your interest in it and the pseudo-commitment can mentally drive you to explore it further.
+</blockquote>
 
 Flash forward a couple of months
 ----
@@ -68,9 +69,9 @@ Did you accept immediately?
 <p>It was irrational, but I was extremely anxious that even though I now had a decent implementation (which would form the basis of my talk), I had no actual talk. So cue the doubtful procrastination.</p>
 <p>Eventually, reason came into play. I had a solid base, and months to turn it into a talk I wanted to deliver. I accepted. Future Martin can deal with it.</p>
 
-```
-Tip 5: With a base project and weeks (if not months) of potential refinement you will be able to deliver something you're happy with. Go for it!
-``` 
+<blockquote>
+<strong>Tip 5</strong>: With a base project and weeks (if not months) of potential refinement you will be able to deliver something you're happy with. Go for it!
+</blockquote>
 
 3 weeks before the talk
 ----
@@ -93,9 +94,9 @@ Martin Carolan, 2016
 
 From this, the anxiety did start to dissipate. I started to feel that I hadn&apos;t shot myself in the foot - just the toe. And it could all be worthwhile!
 
-```
-Tip 6: Be comfortable with the audience's expectations of your first 15 minute lightning talk. It need not be earth shattering.
-```
+<blockquote>
+<strong>Tip 6</strong>: Be comfortable with the audience's expectations of your first 15 minute lightning talk. It need not be earth shattering.
+</blockquote>
 
 Building the talk
 ----
@@ -107,9 +108,9 @@ Building the talk
 
 My way out of this was to scrap the slides and instead write a narrative (kind of like this!). I never published this, it was just a way to have a soliloquy that could later be recalled and supported by a few images and focus words. Your mileage my vary.
 
-```
-Tip 7: Don't dive straight into slides. I found it useful to write down a story, and later add supporting materials where appropriate.  
-```
+<blockquote>
+<strong>Tip 7</strong>: Don't dive straight into slides. I found it useful to write down a story, and later add supporting materials where appropriate.  
+</blockquote>
 
 Practising the talk
 ----
@@ -137,9 +138,9 @@ In terms of resources to help you be more confident in delivery:
 </ul>
 </p>
 
-```
-Tip 8: Keep on practising! Speak at a smaller gig a couple of weeks before the conference.
-```
+<blockquote>
+<strong>Tip 8</strong>: Keep on practising! Speak at a smaller gig a couple of weeks before the conference.
+</blockquote>
 
 Actually doing it
 ----
