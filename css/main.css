@@ -69,33 +69,36 @@ article h1 {
 }
 
 article a {
-  color: #666666;
+  color: #0000FF;
 }
 
 article a:visited {
-  color: #666666;
+  color: #0000FF;
 }
 
 .posts article:last-of-type + hr {
   visibility: collapse;
 }
 
-ul {
+#links ul {
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-li {
+#links li {
     margin-bottom: 10px;
     cursor: pointer; cursor: hand;
     font-size: 18px;
 }
 
-li:hover {
+#links li:hover {
     background-color: #FFFFe0;
 }
 
+li {
+  padding: 3px;
+}
 body {
     margin: 0;
     padding: 0;
