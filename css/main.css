@@ -76,6 +76,14 @@ article a:visited {
   color: #0000FF;
 }
 
+article h1 a {
+  color: #666666;
+}
+
+article h1 a:visited {
+  color: #666666;
+}
+
 .posts article:last-of-type + hr {
   visibility: collapse;
 }
@@ -99,6 +107,7 @@ article a:visited {
 li {
   padding: 3px;
 }
+
 body {
     margin: 0;
     padding: 0;
