@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Hello, Scala eXchange!
+comments: true
 ---
 
 <p>In 2 days I&apos;m hitting an intimidating but exhilarating goal: giving my first talk at a conference.</p>
