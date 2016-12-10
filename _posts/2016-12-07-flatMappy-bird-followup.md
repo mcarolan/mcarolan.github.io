@@ -4,7 +4,7 @@ title: flatMappy bird follow up material
 comments: true
 ---
 
-<p>A huge thanks to everybody who attended my talk at <a target="_blank" href="https://skillsmatter.com/conferences/7432-scala-exchange-2016">Scala eXchange 2016</a>, &quot;<a target="_blank" href="https://github.com/mcarolan/flatmappy-bird">flatMappy bird</a>: functional flappy bird&quot;.</p>
+<p>A huge thanks to everybody who attended my talk at <a target="_blank" href="https://skillsmatter.com/conferences/7432-scala-exchange-2016">Scala eXchange 2016</a>, &quot;<a target="_blank" href="https://skillsmatter.com/skillscasts/8980-flatmappy-bird-functional-flappy-bird">flatMappy bird: functional flappy bird</a>&quot;.</p>
 <p>The aim of my talk was to give:</p>
 * A feeling for how FRP, and Coroutines work
 * Pride in functional programming
